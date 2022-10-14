@@ -21,8 +21,8 @@ Has a cart feature which opens up and displays the items selected in a summary, 
 </ul>
 <h2>Demo</h2>
 <p>
-<img src="https://github.com/YeshiwasT/Electronics_E-Shopping_Using_React/tree/main/readme-asset/1.jpg"><br/>
-<img src="https://github.com/YeshiwasT/Electronics_E-Shopping_Using_React/tree/main/readme-asset/2.jpg"><br/>
+<img src="https://github.com/YeshiwasT/Electronics_E-Shopping_Using_React/blob/main/readme-asset/1.jpg"><br/>
+<img src="https://github.com/YeshiwasT/Electronics_E-Shopping_Using_React/blob/main/readme-asset/2.jpg"><br/>
 
 </p>
 </p>
